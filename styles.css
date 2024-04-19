@@ -58,6 +58,11 @@ a {
     text-decoration: none;
     color: purple;
 }
+
+.CA {
+    color: whitesmoke;
+}
+
 .about-pic {
     margin-left: 30px;
     width: 100%;
