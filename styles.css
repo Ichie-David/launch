@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: aqua; */
+}
+ul {
+    margin: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li {
+    text-decoration: none;
+
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(102, 83, 119);
+    color: beige;
+}
+.first button{
+    background-color: transparent;
+    color: beige;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding: 30px 80px;
+}
+
+.second {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.duo {
+    width: 60%;
+    padding: 40px;
+}
+
+.butt-ons {
+    margin-top: 40px;
+}
+
+.butt-ons button {
+    padding: 20px;
+    border-radius: 40px;
+    border: 1px black solid;
+    margin-left: 40px;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.about-pic {
+    margin-left: 30px;
+    width: 100%;
+}
+.about-pic img {
+    width: 100;
+}
+
+.third {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.third h1 {
+margin-bottom: 20px;
+}
+
+.fourth {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fifth {
+    display: flex;
+}
+
+.sixth {
+    display: flex;
+}
+
+.seventh {
+    display: flex;
+}
